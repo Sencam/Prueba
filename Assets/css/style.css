@@ -16,4 +16,19 @@ header .encabezado{
     width: 100px;
     display: inline-block
     
+    
+}
+body .container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    text-align: center;
+}
+
+
+
+footer{
+    background-color: aqua;
+    
 }
